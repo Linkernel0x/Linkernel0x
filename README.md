@@ -89,7 +89,7 @@ Yeah, I know I have a small amount of public repos, but that's because I'm not c
 
 ---
 
-### ⚡ Fun Facts about me
+### ⚡ Fun Facts about me and tech
 
 * 🎒 **School's IT baby boss:** I've loved tech since childhood. In primary school, my teachers used to let me skip PE (which I absolutely despised) so they could take me around the school premises to troubleshoot and fix computer infrastructure issues.
 
