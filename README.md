@@ -27,11 +27,13 @@
 
   <h3>Languages & OS</h3>
   <img src="https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=white&labelColor=%23B7410E&color=%23B7410E&link=https%3A%2F%2Frust-lang.org" alt="Rust" />
+  <img src="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26&link=https%3A%2F%2Fhtml.spec.whatwg.org%2Fmultipage%2F" alt="Html 5" />
   <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logoColor=white&labelColor=red&color=red&link=https%3A%2F%2Fwww.java.com%2F" alt="Java" />
   <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23F7DF1E&color=%23F7DF1E&link=https%3A%2F%2Ftc39.es" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Nodejs-white?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=%235FA04E&color=%235FA04E&link=https%3A%2F%2Fnodejs.org%2Fen" alt="Node.js" />
   <img src="https://img.shields.io/badge/Bash-white?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=%234EAA25&color=%234EAA25&link=https%3A%2F%2Fwww.gnu.org%2Fsoftware%2Fbash%2F" alt="Bash" />
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=black&labelColor=%2361DAFB&color=%2361DAFB&link=https%3A%2F%2Freact.dev" alt="React" />
+  <img src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=%231572B6&color=%231572B6&link=https%3A%2F%2Fwww.w3.org%2FStyle%2FCSS%2FOverview.en.html" alt="css" /> 
   <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB&color=%233776AB&link=https%3A%2F%2Fwww.python.org%2F" alt="Python" />
   <img src="https://img.shields.io/badge/Arch%20Linux-white?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=%231793D1&color=%231793D1&link=https%3A%2F%2Farchlinux.org" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Ubuntu%20Server-white?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=%23E95420&color=%23E95420&link=https%3A%2F%2Fubuntu.com%2Fserver" alt="Ubuntu server" />
