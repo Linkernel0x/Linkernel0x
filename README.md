@@ -66,7 +66,7 @@
 
 ---
 
-Yeah, I know I have a small amount of public repos, but that's because I'm not confident of my work... I have like 5 times the number of private repos. 3:
+Yeah, I know I have a small amount of public repos, but that's because I'm not confident of my work... I have like 3 times the number of private repos. 3:
 
 ### 🔭 Current Focus
 - 🧱 **Minecraft Modding**: Working on mechanics (check out my first mod: [sakchat](../../../sakchat))
