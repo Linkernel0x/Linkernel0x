@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=black&labelColor=%2361DAFB&color=%2361DAFB&link=https%3A%2F%2Freact.dev" alt="React" />
   <img src="https://img.shields.io/badge/css3-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=%231572B6&color=%231572B6&link=https%3A%2F%2Fwww.w3.org%2FStyle%2FCSS%2FOverview.en.html" alt="css" /> 
   <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB&color=%233776AB&link=https%3A%2F%2Fwww.python.org%2F" alt="Python" />
+  <img src="https://img.shields.io/badge/markdown-white?style=for-the-badge&logo=markdown&logoColor=white&labelColor=%23000000&color=%23000000" alt="Markdown">
   <img src="https://img.shields.io/badge/Arch%20Linux-white?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=%231793D1&color=%231793D1&link=https%3A%2F%2Farchlinux.org" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Ubuntu%20Server-white?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=%23E95420&color=%23E95420&link=https%3A%2F%2Fubuntu.com%2Fserver" alt="Ubuntu server" />
   <img src="https://img.shields.io/badge/MacOS%20%26%20iOS-white?style=for-the-badge&logo=apple&logoColor=white&labelColor=grey&color=grey&link=https%3A%2F%2Fwww.apple.com%2Fos%2Fmacos%2F" alt="MacOS & iOS" />
@@ -45,6 +46,7 @@
   <img src="https://img.shields.io/badge/RustRover-white?style=for-the-badge&logoColor=white&labelColor=orange&color=orange&link=https%3A%2F%2Fwww.jetbrains.com%2Frust%2F" alt="RustRover" />
   <img src="https://img.shields.io/badge/PyCharm-white?style=for-the-badge&logoColor=white&labelColor=%23a0dc88&color=%23a0dc88&link=https%3A%2F%2Fwww.jetbrains.com%2Fpycharm%2F" alt="PyCharm" />
   <img src="https://img.shields.io/badge/WebStorm-white?style=for-the-badge&logo=webstorm&logoColor=white&labelColor=%2359C1F0&color=%2359C1F0&link=https%3A%2F%2Fwww.jetbrains.com%2Fwebstorm%2F" alt="WebStorm" />
+  <img src="https://img.shields.io/badge/godot-white?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=%23478CBF&color=%23478CBF" alt="Godot">
   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/CLion-white?style=for-the-badge&logo=clion&logoColor=white&labelColor=%237a7cd0&color=%237a7cd0&link=https%3A%2F%2Fwww.jetbrains.com%2Fclion%2F" alt="CLion" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-white?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=purple&color=purple&link=https%3A%2F%2Fwww.jetbrains.com%2Fidea%2F" alt="Intellij IDEA" />
